@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">명지 길라잡이</string>
+    <string name="btn_login">로그인</string>
+    <string name="btn_join">회원가입</string>
+    <string name="hint_id">ID 및 E-mail</string>
+    <string name="hint_passwd">패스워드</string>
+</resources>
